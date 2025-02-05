@@ -2,7 +2,7 @@
 <h4 align="left">
   
 </h4>
-
+<br/>
  <h2>💫 About Me</h2>
  
 <h4> 
@@ -13,19 +13,32 @@
   <a href="https://t.me/dengasbobster">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  
+<br/>
 
-<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,vscode,python,java,github,mysql,html,css,git,androidstudio,ubuntu," /><br>
+  <h2>💻 Hard skills</h2>
+  <div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  </div>
+  <div align="center"> 
+  </div>
+
+<br/>
+
+ 
+<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=obsidian,vscode,python,java,github" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,git,androidstudio,ubuntu,mysql" /><br>
 </div>
 
+<br/>
 
-
-
-
-
-
-## 📊 My stats
+<h2>📊 My stats</h2>
 <picture>
   <!-- Для тёмной темы -->
   <source
@@ -56,7 +69,9 @@
 </picture>
 
 
+
  <div align="center">
+   <br/>
 <a href="https://github.com/dengas">
   <img width="150px" 
        src="https://komarev.com/ghpvc/?username=dengas&label=Profile%20views&color=318CE7&style=for-the-badge" 
