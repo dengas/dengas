@@ -2,7 +2,9 @@
 <h4 align="left">
   
 </h4>
+
  <h2>💫 About Me</h2>
+ 
 <h4> 
   Text about me
 </h4><div align="left"> 
@@ -10,8 +12,17 @@
 <h2>📱 My contacts</h2>
   <a href="https://t.me/dengasbobster">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    
   </a>
+
+<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=obsidian,vscode,python,java,github,mysql,html,css,git,androidstudio,ubuntu," /><br>
+</div>
+
+
+
+
+
 
 
 ## 📊 My stats
