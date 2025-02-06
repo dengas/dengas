@@ -45,33 +45,12 @@
 
 <h2>📊 My stats</h2>
 <picture>
-  <!-- Для тёмной темы -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dengas&theme=tokyonight&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Для светлой темы -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dengas&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <!-- Изображение по умолчанию -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dengas&show_icons=true" alt="GitHub Stats" />
-</picture>
-<picture>
-  <!-- Для тёмной темы -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dengas&layout=compact&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Для светлой темы -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dengas&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <!-- Изображение по умолчанию -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengas&layout=compact" alt="Top Langs" />
-</picture>
+
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=dengas"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+
 
 
 
