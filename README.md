@@ -44,24 +44,14 @@
 <br/>
 
 <h2>📊 My stats</h2>
-<picture>
 
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=dengas"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=dengas&theme=tokyonight"/>
+<img alt="top langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengas&layout=compact&theme=tokyonight"/>
 
 
 
 
- <div align="center">
-   <br/>
-<a href="https://github.com/dengas">
-  <img width="150px" 
-       src="https://komarev.com/ghpvc/?username=dengas&label=Profile%20views&color=318CE7&style=for-the-badge" 
-       alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/dengas"></a>
- </div>
 
 
 
@@ -75,4 +65,13 @@
 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.
 ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.
 ✨ I only like perfection.
+
+ <div align="center">
+   <br/>
+<a href="https://github.com/dengas">
+  <img width="150px" 
+       src="https://komarev.com/ghpvc/?username=dengas&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/dengas"></a>
+ </div>
 -->
