@@ -6,8 +6,8 @@
  <h2>💫 About Me</h2>
  
 <h4> 
-  Python Data analyst
-  Все проекты можно увидеть здесь ✅
+  Python Data analyst <br>
+  Все проекты можно увидеть здесь ✅ <br>
 </h4><div align="left"> 
   
 <h2>📱 My contacts</h2>
