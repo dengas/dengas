@@ -7,6 +7,7 @@
  
 <h4> 
   Python Data analyst
+  Все проекты можно увидеть здесь ✅
 </h4><div align="left"> 
   
 <h2>📱 My contacts</h2>
